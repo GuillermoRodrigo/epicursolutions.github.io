@@ -39,7 +39,7 @@ body{
 }
 
 .brand-logo{
-  height:68px;
+  height:80px;
   width:auto;
   max-width:120px;
   object-fit:contain;
@@ -136,6 +136,7 @@ input, textarea{
   text-align:center;
   color:var(--muted);
 }
+
 
 
 
